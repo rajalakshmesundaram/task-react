@@ -1,0 +1,39 @@
+.container{
+    display: grid;
+    background-color: blue;
+    padding: 10px;
+    width: 70%;
+    
+    align-content:space-around !important;
+}
+button{
+    border-radius: 50px !important;
+}
+.design{
+    opacity: 0.5;
+    text-align: center;
+}
+.design1{
+    font-size: 25px;
+    
+}
+.design2{
+    opacity:0.5;
+}
+.card-text{
+     font-size:11px ;
+}
+.card{
+     height:100%;
+    width:100%!important;
+   
+
+}
+span{
+    font-size:medium;
+    color: black;
+}
+h5{
+    text-align: center;
+    margin-top:25px;
+}
